@@ -106,17 +106,7 @@ To deploy this project run
 firebase deploy
 ```
 
-## :wave: Contributing
 
-<a href="https://github.com/gyandeeparyan/netflix-gpt/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
-
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/gyandeeparyan/netflix-gpt/blob/master/CODE_OF_CONDUCT.md)
 
 ## :handshake: Contact
 
